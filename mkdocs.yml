@@ -1,0 +1,18 @@
+site_name: Memória Digital Permanente
+theme:
+  name: material
+  language: pt
+
+nav:
+  - Início: index.md
+  - Registros:
+      - Memória Digital - Introdução e Justificativa: Registros/memoria_digital.md
+      - Os Fundamentos da Memória Digital: Registros/fundamentos_memoria.md
+      - Método de Coautoria: Registros/metodo_de_coautoria.md
+      - Comandos Básicos no Terminal do macOS: Registros/comandos_mac.md
+      - A Capela na Estação: Registros/capela_na_estacao.md
+      - A Crise da Igreja: Registros/crise_da_igreja.md
+  - Referências:
+      - Trechos Importantes: Referencias/trechos_importantes.md
+      - Bibliografia: Referencias/bibliografia.md
+
